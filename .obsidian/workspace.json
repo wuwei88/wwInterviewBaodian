@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a12010bfea2ac62b",
+        "id": "01f84e6db8c39c17",
         "type": "tabs",
         "children": [
           {
-            "id": "2464d5dfeb8b714e",
+            "id": "bddfc10e44381585",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md"
+              }
             }
           }
         ],
@@ -126,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,24 +143,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2464d5dfeb8b714e",
+  "active": "e02940837b31a26f",
   "lastOpenFiles": [
-    "计算器网络篇与数据库篇/001-计算机网络篇.md",
-    "计算器网络篇与数据库篇/001-数据库篇.md",
-    "计算器网络篇与数据库篇",
-    "测试常见问题和流程篇/002-测试常见问题和流程篇.md",
-    "测试常见问题和流程篇/001-测试常见问题与流程篇.md",
-    "测试常见问题和流程篇/pic/Pasted image 20240426142436.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240426220721.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240426142348.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240426142102.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240425191528.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240425172358.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240424231353.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240424215916.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240424215856.png",
-    "测试常见问题和流程篇/pic/Pasted image 20240424212900.png",
-    "测试常见问题和流程篇/pic",
-    "测试常见问题和流程篇"
+    "008、软素质篇与反问面试官篇",
+    "007、算法题篇",
+    "003、Linux技能篇与Git篇/001-Git篇.md",
+    "006、性能测试篇",
+    "005、自动化测试篇",
+    "004、Python编程篇",
+    "003、Linux技能篇与Git篇/001-Linux技能篇.md",
+    "002、计算器网络篇与数据库篇/001-数据库篇.md",
+    "003、Linux技能篇与Git篇",
+    "002、计算器网络篇与数据库篇/001-计算机网络篇.md",
+    "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
+    "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
+    "002、计算器网络篇与数据库篇",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240426142436.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240426220721.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240426142348.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240426142102.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240425191528.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240425172358.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240424231353.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240424215916.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240424215856.png",
+    "001、测试常见问题和流程篇/pic/Pasted image 20240424212900.png",
+    "001、测试常见问题和流程篇/pic",
+    "001、测试常见问题和流程篇"
   ]
 }
