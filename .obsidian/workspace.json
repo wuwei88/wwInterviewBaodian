@@ -11,8 +11,12 @@
             "id": "bddfc10e44381585",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387.5
   },
   "right": {
     "id": "aaaa3b7ebee1cc17",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
+                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
+                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md"
+                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md"
               }
             }
           }
@@ -143,8 +147,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e02940837b31a26f",
+  "active": "bddfc10e44381585",
   "lastOpenFiles": [
+    "001、测试常见问题和流程篇/assets/Pasted image 20240426220721.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240426142436.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240426142348.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240426142102.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240425191528.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240425172358.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240424231353.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240424215916.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240424215856.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240424212900.png",
+    "001、测试常见问题和流程篇/assets/Pasted image 20240424201638.png",
+    "001、测试常见问题和流程篇/assets",
     "008、软素质篇与反问面试官篇",
     "007、算法题篇",
     "003、Linux技能篇与Git篇/001-Git篇.md",
@@ -158,16 +174,6 @@
     "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
     "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
     "002、计算器网络篇与数据库篇",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240426142436.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240426220721.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240426142348.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240426142102.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240425191528.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240425172358.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240424231353.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240424215916.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240424215856.png",
-    "001、测试常见问题和流程篇/pic/Pasted image 20240424212900.png",
     "001、测试常见问题和流程篇/pic",
     "001、测试常见问题和流程篇"
   ]
