@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
+                "file": "010、中间件篇/010、中间件篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
+                "file": "010、中间件篇/010、中间件篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
+                "file": "010、中间件篇/010、中间件篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md"
+                "file": "010、中间件篇/010、中间件篇.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,32 +148,42 @@
   },
   "active": "bddfc10e44381585",
   "lastOpenFiles": [
-    "001、测试常见问题和流程篇/assets/Pasted image 20240426220721.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240426142436.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240426142348.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240426142102.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240425191528.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240425172358.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240424231353.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240424215916.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240424215856.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240424212900.png",
-    "001、测试常见问题和流程篇/assets/Pasted image 20240424201638.png",
-    "001、测试常见问题和流程篇/assets",
+    "面试心得笔记.md",
+    "009、持续集成Jenkins&Docker/009、持续集成Jenkins&Docker.md",
+    "008、软素质篇与反问面试官篇/008、软素质篇与反问面试官篇.md",
+    "007、算法题篇/007、算法题篇.md",
+    "006、性能测试篇/006、性能测试篇.md",
+    "006、性能测试篇/assets/性能测试流程.png",
+    "005、自动化测试篇/005、自动化测试篇.md",
+    "004、Python编程篇/004、Python编程篇.md",
+    "003、Linux技能篇与Git篇/003、Linux技能篇与Git篇.md",
+    "002、计算机网络篇与数据库篇/002、计算机网络篇与数据库篇.md",
+    "001、测试常见问题与流程篇/001、测试常见问题与流程篇.md",
+    "010、中间件篇/assets/后端服务与数据库的交互.png",
+    "010、中间件篇/assets/后端服务、Redis与数据库的交互.png",
+    "010、中间件篇/assets",
+    "010、中间件篇/010、中间件篇.md",
+    "010、中间件篇",
+    "009、持续集成Jenkins&Docker/assets/Docker和虚拟机区别.png",
+    "009、持续集成Jenkins&Docker/assets",
+    "009、持续集成Jenkins&Docker",
+    "008、软素质篇与反问面试官篇/assets/面试总结复盘.png",
+    "008、软素质篇与反问面试官篇/assets",
     "008、软素质篇与反问面试官篇",
+    "007、算法题篇/assets",
     "007、算法题篇",
-    "003、Linux技能篇与Git篇/001-Git篇.md",
+    "006、性能测试篇/assets",
     "006、性能测试篇",
-    "005、自动化测试篇",
-    "004、Python编程篇",
-    "003、Linux技能篇与Git篇/001-Linux技能篇.md",
-    "002、计算器网络篇与数据库篇/001-数据库篇.md",
-    "003、Linux技能篇与Git篇",
-    "002、计算器网络篇与数据库篇/001-计算机网络篇.md",
-    "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
+    "005、自动化测试篇/assets/Selenium自动化测试实现.png",
+    "005、自动化测试篇/assets/PO设计模式_Class类对应的属性.png",
+    "005、自动化测试篇/assets/Selenium原理.png",
+    "005、自动化测试篇/assets/PO设计模式_Class类对应的方法.png",
+    "005、自动化测试篇/assets/Appium工作原理.png",
     "001、测试常见问题和流程篇/001-测试常见问题与流程篇.md",
-    "002、计算器网络篇与数据库篇",
-    "001、测试常见问题和流程篇/pic",
-    "001、测试常见问题和流程篇"
+    "002、计算器网络篇与数据库篇/001-计算机网络篇.md",
+    "002、计算器网络篇与数据库篇/001-数据库篇.md",
+    "001、测试常见问题和流程篇/002-测试常见问题和流程篇.md",
+    "003、Linux技能篇与Git篇/001-Git篇.md",
+    "003、Linux技能篇与Git篇/001-Linux技能篇.md"
   ]
 }
